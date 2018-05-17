@@ -1,6 +1,6 @@
 {
   "name": "rails-translations-webpack-plugin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Nicola Racco",
   "description": "Shares Rails i18n translations with your javascripts without duplicating contents",
   "engines": {
@@ -30,7 +30,7 @@
   "dependencies": {
     "glob": "^7.1.1",
     "lodash": "^4.17.4",
-    "virtual-module-webpack-plugin": "^0.3.0",
+    "virtual-module-webpack-plugin": "^0.4.0",
     "yaml-js": "^0.1.4"
   },
   "devDependencies": {
